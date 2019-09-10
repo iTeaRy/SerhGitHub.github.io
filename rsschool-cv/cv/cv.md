@@ -38,7 +38,7 @@ freelance projects - wherever they had the opportunity to demonstrate skills the
 Also it would be awesome if you add links to source code)**
 
 7. **Education**
-	+ Yanka Kupala State University of Grodno, Physico-Technical Faculty, Software Engineer
+	+ Yanka Kupala State University of Grodno, Physico-Technical Faculty, Department of Information Systems and Technologies
 
 8. **English (elaborate on what kind of practice you had, if any, how long it lasted and so on)**
 		
