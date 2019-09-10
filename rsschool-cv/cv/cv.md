@@ -3,7 +3,7 @@
 2. **Contact Info**
 	+ `email` <a href="olegrud19@gmail.com">olegrud19@gmail.com</a>
 	+ `phone` +375(33) 3146124
-	+ `skype` serh90
+	+ `skype` Olegrud19@outlook.com
 	
 3. **Summary**
 
@@ -40,6 +40,7 @@ Also it would be awesome if you add links to source code)**
 7. **Education**
 	+ Yanka Kupala State University of Grodno, Physico-Technical Faculty, Department of Information Systems and Technologies
 
-8. **English (elaborate on what kind of practice you had, if any, how long it lasted and so on)**
+8. **English**
+	+ On previous job, my responsibilities included working with colleagues from Germany (only English)
 		
 		
