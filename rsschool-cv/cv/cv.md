@@ -19,7 +19,7 @@
 	+ **`OS Platform`**
 		MS Windows, Linux (Ubuntu)
 	+ **`Languages and technologies`**
-		JavaScript, ES6+, React, Redux, HTML, CSS, Bootstrap, Ant Design, Matrial UI, Java
+		JavaScript, ES6+, React, Redux, HTML, CSS, Bootstrap, Ant Design, Matrial UI, Java, Spring Boot
 	+ **`RDBMS`**
 		MySQL, PostgreSQL
 	+ **`NoSQL databases`**
