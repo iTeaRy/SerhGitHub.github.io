@@ -1,4 +1,4 @@
-# Siarhei Rudzevich
+# Aleh Rudzevich
 
 2. **Contact Info**
 	+ `email` <a href="serhiorsv@gmail.com">serhiorsv@gmail.com</a>
@@ -38,7 +38,7 @@ freelance projects - wherever they had the opportunity to demonstrate skills the
 Also it would be awesome if you add links to source code)**
 
 7. **Education**
-	+ Yanka Kupala State University of Grodno,  Faculty of Mathematics and Informatics, Software Engineer
+	+ Yanka Kupala State University of Grodno, Physico-Technical Faculty, Software Engineer
 
 8. **English (elaborate on what kind of practice you had, if any, how long it lasted and so on)**
 		
