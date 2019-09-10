@@ -16,22 +16,19 @@
 	In my free time I enjoy walking with my friends and bicycling. It provides me with a good balance in my life.
 
 4. **Skills**
-
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-<div style="display: inline-block;">
-<h2>Good</h2>
-<pre><code class="language-c">int foo (void) 
-{
-int i;
-}
-</code></pre>
-</div>
-<div style="display: inline-block;">
-<h2>Bad</h2>
-<pre><code class="language-c">int foo (void) {
-int i;
-}
-</code></pre>
-</div>
-</div>
- 
+	+ **OS Platform**
+		MS Windows, Linux (Ubuntu)
+	+ **Languages and technologies**
+		JavaScript, ES6+, React, Redux, HTML, CSS, Bootstrap, Ant Design, Matrial UI, Java
+	+ **RDBMS**
+		MySQL, PostgreSQL
+	+ **NoSQL databases**
+		MongoDB
+	+ **Build Tools**
+		Maven, Gradle, NPM, Yarn, Webpack
+	+ **Development Environments**
+		Intellij IDEA, Atom, WebStorm, Eclipse
+	+ **Version Control Systems**
+		Git
+		
+		
