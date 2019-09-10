@@ -40,7 +40,7 @@ Also it would be awesome if you add links to source code)**
 7. **Education**
 	+ Yanka Kupala State University of Grodno, Physico-Technical Faculty, Department of Information Systems and Technologies
 
-8. **English**
+8. **English (A1+ Low Pre-Intermediate)**
 	+ On previous job, my responsibilities included working with colleagues from Germany (only English)
 		
 		
