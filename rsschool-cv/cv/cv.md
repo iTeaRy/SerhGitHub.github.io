@@ -16,19 +16,19 @@
 	In my free time I enjoy walking with my friends and bicycling. It provides me with a good balance in my life.
 
 4. **Skills**
-	+ **`OS Platform`**
-		MS Windows, Linux (Ubuntu)
-	+ **`Languages and technologies`**
-		JavaScript, ES6+, React, Redux, HTML, CSS, Bootstrap, Ant Design, Matrial UI, Java, Spring Boot
-	+ **`RDBMS`**
-		MySQL, PostgreSQL
-	+ **`NoSQL databases`**
-		MongoDB
-	+ **`Build Tools`**
-		Maven, Gradle, NPM, Yarn, Webpack
-	+ **`Development Environments`**
-		Intellij IDEA, Atom, WebStorm, Eclipse
-	+ **`Version Control Systems`**
-		Git
+	+ **OS Platform**
+		`MS Windows`, `Linux (Ubuntu)`
+	+ **Languages and technologies**
+		`JavaScript`, `ES6+`, `React`, `Redux`, `HTML`, `CSS`, `Bootstrap`, `Ant Design`, `Matrial UI`, `Java`, `Spring Boot`
+	+ **RDBMS**
+		`MySQL`, `PostgreSQL`
+	+ **NoSQL databases**
+		`MongoDB`
+	+ **Build Tools**
+		`Maven`, `Gradle`, `NPM`, `Yarn`, `Webpack`
+	+ **Development Environments**
+		`Intellij IDEA`, `Atom`, `WebStorm`, `Eclipse`
+	+ **Version Control Systems**
+		`Git`
 		
 		
