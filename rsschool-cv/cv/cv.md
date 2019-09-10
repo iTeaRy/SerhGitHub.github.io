@@ -14,4 +14,27 @@
 	That all background will help me achieve all goals. It’s impossible to predict the future, but my main goal is to become successful. 
 	
 	In my free time I enjoy walking with my friends and bicycling. It provides me with a good balance in my life.
+
+4. **Skills**
+
+# Rule 1
+Description for rule 1.
+
+<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
+    <div style="display: inline-block;">
+        <h2>Good</h2>
+        <pre><code class="language-c">int foo (void) 
+{
+    int i;
+}
+</code></pre>
+    </div>
+    <div style="display: inline-block;">
+        <h2>Bad</h2>
+        <pre><code class="language-c">int foo (void) {
+    int i;
+}
+</code></pre>
+    </div>
+</div>
  
