@@ -17,30 +17,29 @@
 
 4. **Skills**
 	+ **OS Platform**
-		`MS Windows`, `Linux (Ubuntu)`
+		`MS Windows`, `Linux (Ubuntu)`;
 	+ **Languages and technologies**
-		`JavaScript`, `ES6+`, `React`, `Redux`, `HTML`, `CSS`, `Bootstrap`, `Ant Design`, `Matrial UI`, `Java`, `Spring Boot`
+		`JavaScript`, `ES6+`, `React`, `Redux`, `HTML`, `CSS`, `Bootstrap`, `Ant Design`, `Matrial UI`, `Java`, `Spring Boot`;
 	+ **RDBMS**
-		`MySQL`, `PostgreSQL`
+		`MySQL`, `PostgreSQL`;
 	+ **NoSQL databases**
-		`MongoDB`
+		`MongoDB`;
 	+ **Build Tools**
-		`Maven`, `Gradle`, `NPM`, `Yarn`, `Webpack`
+		`Maven`, `Gradle`, `NPM`, `Yarn`, `Webpack`;
 	+ **Development Environments**
-		`Intellij IDEA`, `Atom`, `WebStorm`, `Eclipse`
+		`Intellij IDEA`, `Atom`, `WebStorm`, `Eclipse`;
 	+ **Version Control Systems**
-		`Git`
+		`Git`.
 		
 5. **Code examples (LATEST)**
 
-6. **Experience (for a Junior Dev it means all kinds of experience: coding tests, projects from courses,
-freelance projects - wherever they had the opportunity to demonstrate skills they have.
-Also it would be awesome if you add links to source code)**
+6. **Experience**
+	+ I have no experience of development in comercial project.
 
 7. **Education**
-	+ Yanka Kupala State University of Grodno, Physico-Technical Faculty, Department of Information Systems and Technologies
+	+ Yanka Kupala State University of Grodno, Physico-Technical Faculty, Department of Information Systems and Technologies.
 
 8. **English (A1+ Low Pre-Intermediate)**
-	+ On previous job, my responsibilities included working with colleagues from Germany (only English)
+	+ On previous job, my responsibilities included working with colleagues from Germany (only English).
 		
 		
