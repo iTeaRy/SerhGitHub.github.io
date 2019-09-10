@@ -1,8 +1,8 @@
 # Aleh Rudzevich
 
 2. **Contact Info**
-	+ `email` <a href="serhiorsv@gmail.com">serhiorsv@gmail.com</a>
-	+ `phone` +375(29) 86 604 86
+	+ `email` <a href="olegrud19@gmail.com">olegrud19@gmail.com</a>
+	+ `phone` +375(33) 3146124
 	+ `skype` serh90
 	
 3. **Summary**
