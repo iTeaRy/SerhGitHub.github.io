@@ -18,17 +18,17 @@
 4. **Skills**
 	+ **`OS Platform`**
 		MS Windows, Linux (Ubuntu)
-	+ ` **Languages and technologies** `
+	+ **`Languages and technologies`**
 		JavaScript, ES6+, React, Redux, HTML, CSS, Bootstrap, Ant Design, Matrial UI, Java
-	+ `**RDBMS**`
+	+ **`RDBMS`**
 		MySQL, PostgreSQL
-	+ `**NoSQL databases**`
+	+ **`NoSQL databases`**
 		MongoDB
-	+ `**Build Tools**`
+	+ **`Build Tools`**
 		Maven, Gradle, NPM, Yarn, Webpack
-	+ `**Development Environments**`
+	+ **`Development Environments`**
 		Intellij IDEA, Atom, WebStorm, Eclipse
-	+ `**Version Control Systems**`
+	+ **`Version Control Systems`**
 		Git
 		
 		
